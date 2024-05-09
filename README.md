@@ -2,7 +2,7 @@
 
 Este é um aplicativo simples de lista de tarefas desenvolvido em Python com Flet.
 
-![toDo](https://github.com/ksantanac/ToDo-App/issues/1#issue-2286825406)
+![Capturar](https://github.com/ksantanac/ToDo-App/assets/127277943/cf312940-be4a-47cf-8e6e-f85bc86df864)
 
 ## Funcionalidades
 
